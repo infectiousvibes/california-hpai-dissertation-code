@@ -1,0 +1,16 @@
+"county","poultry_outbreaks","poultry_birds_affected","wildbird_detections","waterfowl_detections","snow_goose_hpai_detections","ebird_snow_goose_count","poultry_farms_any_2022","layer_farms_2022","broiler_farms_2022","turkey_farms_2022","poultry_inventory_known_sum_2022","poultry_inventory_known_sum_incomplete","poultry_sales_known_sum_2022","poultry_sales_known_sum_incomplete"
+"Merced",21,8625500,27,9,3,2491024,101,94,5,2,4383630,TRUE,950253,TRUE
+"Stanislaus",16,2866900,3,1,0,308609,237,181,25,11,7379752,TRUE,50560903,TRUE
+"Fresno",12,1363800,42,36,0,355,207,169,37,21,15688561,TRUE,93957615,TRUE
+"Sonoma",10,1231900,8,3,2,291,351,328,15,27,1197204,TRUE,317807,TRUE
+"Tulare",5,1009200,5,0,0,7025,132,118,22,2,2246,TRUE,38,TRUE
+"San Joaquin",5,698100,11,5,2,1165665,253,237,20,10,3026739,FALSE,2701620,TRUE
+"Riverside",4,1506400,2,1,0,1617,298,271,32,36,985718,TRUE,223784,FALSE
+"Kern",3,3222900,14,13,0,28489,158,143,8,17,668,TRUE,2247,TRUE
+"Sacramento",3,263300,8,4,0,1879793,209,197,28,35,730201,TRUE,5450510,TRUE
+"Kings",2,332600,0,0,0,243,46,42,11,6,181890,FALSE,721682,TRUE
+"Marin",2,157500,12,2,1,904,32,31,9,3,44340,FALSE,17424,TRUE
+"Butte",1,38700,11,8,5,3490853,181,167,25,18,6294,FALSE,1240,FALSE
+"Glenn",1,32000,19,17,6,5203490,63,59,8,9,4224,FALSE,0,TRUE
+"Tehama",1,23700,0,0,0,13610,152,137,7,4,505,TRUE,421,TRUE
+"Madera",1,18600,0,0,0,162,89,79,16,3,0,TRUE,0,TRUE

@@ -1,0 +1,6 @@
+#!/usr/bin/env Rscript
+packages <- c("MASS", "dplyr", "readr", "sf", "exactextractr", "terra",
+              "stringr", "tidyr", "purrr", "vroom")
+missing <- packages[!vapply(packages, requireNamespace, logical(1), quietly = TRUE)]
+if (length(missing)) install.packages(missing, repos = "https://cloud.r-project.org")
+cat("All required R packages are available.\n")

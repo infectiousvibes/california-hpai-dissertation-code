@@ -1,0 +1,19 @@
+# Generated analyses and local large inputs
+/analysis_outputs/
+/raw_data/
+/prism_4km_monthly_2020_2025/
+/data/manuscripts/
+/spatial_boundaries/tl_2024_us_county*
+# Credentials, local configuration and R/Python caches
+.env
+.env.*
+!.env.example
+.Renviron
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+~$*

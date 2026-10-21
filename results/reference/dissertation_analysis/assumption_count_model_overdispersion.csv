@@ -1,0 +1,7 @@
+"population","research_question","n","zero_count_outcome_n","zero_count_outcome_pct","poisson_overdispersion_ratio","missing_model_variables_n"
+"rice_producing_counties_primary","RQ1",36,24,66.6666666666667,2.18018610696682,0
+"rice_producing_counties_primary","RQ2",36,24,66.6666666666667,1.90135987369678,0
+"rice_producing_counties_primary","RQ3",36,24,66.6666666666667,2.17823008999376,0
+"statewide_sensitivity","RQ1",174,149,85.632183908046,4.92138185143937,0
+"statewide_sensitivity","RQ2",174,149,85.632183908046,4.83997161392845,0
+"statewide_sensitivity","RQ3",174,149,85.632183908046,5.22474858118954,0

@@ -1,0 +1,9 @@
+convergence_class,counties,poultry_outbreaks,poultry_birds_affected,mean_one_health_convergence
+Outbreak without top-quartile rice/goose/poultry overlap,11,31,7521650,0.5074794424076721
+High rice + high goose + high poultry + outbreak,3,29,9586900,0.882008050429103
+High goose + high poultry + outbreak,1,16,2866900,0.8290271132376396
+High rice + high poultry + outbreak,1,12,1363800,0.7381787802840435
+High rice + high goose + outbreak,2,2,70700,0.8240905293536873
+High rice + high goose,4,0,0,0.7410344041922989
+"High rice + high goose + high poultry, no outbreak",1,0,0,0.8485304169514696
+Lower measured convergence,35,0,0,0.358958869034057

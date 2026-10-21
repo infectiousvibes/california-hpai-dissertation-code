@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the dissertation and this code when using these analyses."
+title: "California HPAI, Rice Habitat, and Snow Goose Dissertation Code"
+type: software
+authors:
+  - family-names: Messinger
+    given-names: Mariati
+date-released: 2026-10-21
+version: 0.1.0

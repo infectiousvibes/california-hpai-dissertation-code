@@ -1,0 +1,4 @@
+"model","n","aic","bic","poisson_overdispersion_ratio"
+"poisson_count_primary_available_predictors",174,245.36917028348,273.800667976411,3.0522036099711
+"negative_binomial_count_primary_available_predictors",174,216.265999238755,247.8565522309,
+"logistic_binary_primary_available_predictors",174,118.988682911638,147.420180604569,

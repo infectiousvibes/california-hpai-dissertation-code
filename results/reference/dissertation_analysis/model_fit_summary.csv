@@ -1,0 +1,13 @@
+"research_question","population","model","n","aic","bic","theta","converged","error"
+"RQ1","rice_producing_counties_primary","negative_binomial_count",36,76.0947567242246,87.1793892934173,9.7748567983012,TRUE,
+"RQ1","rice_producing_counties_primary","logistic_binary",36,34.5187185138465,44.0198321445832,,TRUE,
+"RQ2","rice_producing_counties_primary","negative_binomial_count",36,77.0860758715013,88.1707084406941,6.45281703503348,TRUE,
+"RQ2","rice_producing_counties_primary","logistic_binary",36,37.4313232116955,46.9324368424322,,TRUE,
+"RQ3","rice_producing_counties_primary","negative_binomial_count",36,79.1793580403984,93.4310284865034,6.79837802538824,TRUE,
+"RQ3","rice_producing_counties_primary","logistic_binary",36,35.9240484705436,48.5921999781924,,TRUE,
+"RQ1","statewide_sensitivity","negative_binomial_count",174,222.811238922423,244.924626016924,0.261932825026592,TRUE,
+"RQ1","statewide_sensitivity","logistic_binary",174,118.588631126158,137.542962921445,,TRUE,
+"RQ2","statewide_sensitivity","negative_binomial_count",174,223.361544271611,245.474931366112,0.255242814168611,TRUE,
+"RQ2","statewide_sensitivity","logistic_binary",174,120.861009451627,139.815341246914,,TRUE,
+"RQ3","statewide_sensitivity","negative_binomial_count",174,225.98332261309,254.414820306021,0.268998796468987,TRUE,
+"RQ3","statewide_sensitivity","logistic_binary",174,121.434470399128,146.706912792844,,TRUE,

@@ -1,0 +1,117 @@
+"state","county","winter_start_year","winter_season","poultry_outbreaks","poultry_birds_affected","commercial_outbreaks","woah_poultry_outbreaks","wildbird_detections","waterfowl_detections","snow_goose_detections","captive_wildbird_detections"
+"California","Alameda",2022,"2022-2023",0,0,0,0,5,0,0,0
+"California","Alameda",2023,"2023-2024",0,0,0,0,7,2,0,0
+"California","Alameda",2024,"2024-2025",0,0,0,0,1,1,0,0
+"California","Alameda",2025,"2025-2026",0,0,0,0,10,1,0,0
+"California","Amador",2022,"2022-2023",0,0,0,0,2,2,1,2
+"California","Amador",2023,"2023-2024",0,0,0,0,1,0,0,1
+"California","Butte",2022,"2022-2023",0,0,0,0,8,5,3,0
+"California","Butte",2023,"2023-2024",0,0,0,0,3,3,2,0
+"California","Butte",2024,"2024-2025",1,38700,1,0,0,0,0,0
+"California","Butte",2025,"2025-2026",1,34600,1,0,34,34,0,0
+"California","Colusa",2022,"2022-2023",0,0,0,0,4,3,3,0
+"California","Colusa",2023,"2023-2024",0,0,0,0,2,2,1,0
+"California","Colusa",2025,"2025-2026",0,0,0,0,5,1,1,0
+"California","Contra Costa",2022,"2022-2023",0,0,0,0,6,1,0,0
+"California","Contra Costa",2023,"2023-2024",0,0,0,0,5,3,2,0
+"California","Contra Costa",2025,"2025-2026",0,0,0,0,8,3,1,0
+"California","Del Norte",2022,"2022-2023",0,0,0,0,1,0,0,0
+"California","El Dorado",2022,"2022-2023",0,0,0,0,2,0,0,0
+"California","El Dorado",2025,"2025-2026",0,0,0,0,1,1,0,0
+"California","Fresno",2022,"2022-2023",1,34700,1,0,11,10,0,2
+"California","Fresno",2023,"2023-2024",1,23400,1,0,6,6,0,0
+"California","Fresno",2024,"2024-2025",10,1305700,10,0,25,20,0,0
+"California","Glenn",2022,"2022-2023",1,32000,1,0,10,8,5,0
+"California","Glenn",2023,"2023-2024",0,0,0,0,9,9,1,0
+"California","Humboldt",2022,"2022-2023",0,0,0,0,8,3,0,0
+"California","Imperial",2022,"2022-2023",0,0,0,0,7,7,6,0
+"California","Imperial",2025,"2025-2026",0,0,0,0,2,0,0,0
+"California","Inyo",2023,"2023-2024",0,0,0,0,1,0,0,0
+"California","Inyo",2025,"2025-2026",0,0,0,0,3,0,0,0
+"California","Kern",2022,"2022-2023",0,0,0,0,3,2,0,0
+"California","Kern",2023,"2023-2024",0,0,0,0,9,9,0,0
+"California","Kern",2024,"2024-2025",3,3222900,2,1,2,2,0,0
+"California","Kern",2025,"2025-2026",0,0,0,0,1,1,0,0
+"California","Kings",2024,"2024-2025",2,332600,2,0,0,0,0,0
+"California","Lassen",2022,"2022-2023",0,0,0,0,5,0,0,0
+"California","Los Angeles",2022,"2022-2023",0,0,0,0,17,8,0,0
+"California","Los Angeles",2023,"2023-2024",0,0,0,0,3,1,0,0
+"California","Los Angeles",2024,"2024-2025",0,0,0,0,7,4,0,1
+"California","Los Angeles",2025,"2025-2026",0,0,0,0,5,0,0,0
+"California","Madera",2024,"2024-2025",1,18600,1,0,0,0,0,0
+"California","Marin",2022,"2022-2023",0,0,0,0,7,2,1,0
+"California","Marin",2023,"2023-2024",1,151000,1,0,4,0,0,0
+"California","Marin",2024,"2024-2025",1,6500,1,0,1,0,0,0
+"California","Marin",2025,"2025-2026",0,0,0,0,3,0,0,0
+"California","Mendocino",2022,"2022-2023",0,0,0,0,3,1,0,0
+"California","Mendocino",2025,"2025-2026",0,0,0,0,3,3,0,0
+"California","Merced",2022,"2022-2023",1,29100,1,0,12,9,3,0
+"California","Merced",2023,"2023-2024",8,4152400,8,0,9,0,0,0
+"California","Merced",2024,"2024-2025",12,4444000,12,0,6,0,0,0
+"California","Merced",2025,"2025-2026",0,0,0,0,9,9,0,0
+"California","Monterey",2022,"2022-2023",0,0,0,0,4,0,0,0
+"California","Monterey",2023,"2023-2024",0,0,0,0,3,0,0,0
+"California","Monterey",2024,"2024-2025",1,13700,1,0,10,0,0,0
+"California","Monterey",2025,"2025-2026",0,0,0,0,9,1,0,0
+"California","Napa",2022,"2022-2023",0,0,0,0,3,0,0,0
+"California","Napa",2025,"2025-2026",0,0,0,0,2,0,0,0
+"California","Orange",2023,"2023-2024",0,0,0,0,3,0,0,0
+"California","Placer",2022,"2022-2023",0,0,0,0,2,0,0,0
+"California","Riverside",2022,"2022-2023",0,0,0,0,1,1,0,0
+"California","Riverside",2024,"2024-2025",4,1506400,3,1,1,0,0,0
+"California","Sacramento",2022,"2022-2023",0,0,0,0,3,1,0,0
+"California","Sacramento",2023,"2023-2024",0,0,0,0,5,3,0,0
+"California","Sacramento",2024,"2024-2025",3,263300,3,0,0,0,0,0
+"California","Sacramento",2025,"2025-2026",0,0,0,0,8,4,1,0
+"California","San Benito",2023,"2023-2024",1,5000,1,0,0,0,0,0
+"California","San Benito",2025,"2025-2026",0,0,0,0,1,0,0,0
+"California","San Bernardino",2022,"2022-2023",0,0,0,0,2,2,0,0
+"California","San Diego",2022,"2022-2023",1,150,0,1,23,0,0,18
+"California","San Diego",2023,"2023-2024",0,0,0,0,2,0,0,0
+"California","San Diego",2024,"2024-2025",0,0,0,0,6,0,0,0
+"California","San Diego",2025,"2025-2026",0,0,0,0,24,10,0,0
+"California","San Francisco",2022,"2022-2023",0,0,0,0,6,0,0,1
+"California","San Francisco",2023,"2023-2024",0,0,0,0,1,0,0,0
+"California","San Francisco",2024,"2024-2025",0,0,0,0,1,0,0,0
+"California","San Francisco",2025,"2025-2026",0,0,0,0,17,0,0,0
+"California","San Joaquin",2022,"2022-2023",0,0,0,0,7,4,1,0
+"California","San Joaquin",2023,"2023-2024",1,6000,1,0,2,1,1,0
+"California","San Joaquin",2024,"2024-2025",4,692100,4,0,2,0,0,0
+"California","San Luis Obispo",2022,"2022-2023",0,0,0,0,13,2,0,0
+"California","San Luis Obispo",2025,"2025-2026",0,0,0,0,2,0,0,0
+"California","San Mateo",2022,"2022-2023",0,0,0,0,12,2,1,2
+"California","San Mateo",2023,"2023-2024",0,0,0,0,4,2,1,0
+"California","San Mateo",2025,"2025-2026",0,0,0,0,16,2,0,0
+"California","Santa Barbara",2022,"2022-2023",0,0,0,0,1,0,0,0
+"California","Santa Barbara",2024,"2024-2025",0,0,0,0,2,0,0,0
+"California","Santa Barbara",2025,"2025-2026",0,0,0,0,4,0,0,0
+"California","Santa Clara",2022,"2022-2023",0,0,0,0,2,0,0,0
+"California","Santa Clara",2023,"2023-2024",0,0,0,0,2,1,0,0
+"California","Santa Clara",2025,"2025-2026",0,0,0,0,6,0,0,0
+"California","Santa Cruz",2025,"2025-2026",0,0,0,0,1,0,0,0
+"California","Shasta",2022,"2022-2023",0,0,0,0,2,1,0,0
+"California","Siskiyou",2022,"2022-2023",0,0,0,0,3,3,0,0
+"California","Siskiyou",2023,"2023-2024",0,0,0,0,2,2,2,0
+"California","Siskiyou",2024,"2024-2025",0,0,0,0,1,0,0,0
+"California","Solano",2022,"2022-2023",0,0,0,0,10,8,0,0
+"California","Solano",2023,"2023-2024",0,0,0,0,4,3,0,0
+"California","Solano",2024,"2024-2025",0,0,0,0,4,4,0,0
+"California","Solano",2025,"2025-2026",0,0,0,0,13,9,2,0
+"California","Sonoma",2022,"2022-2023",0,0,0,0,3,2,1,0
+"California","Sonoma",2023,"2023-2024",10,1231900,9,1,4,1,1,0
+"California","Sonoma",2024,"2024-2025",0,0,0,0,1,0,0,1
+"California","Sonoma",2025,"2025-2026",2,150000,1,1,6,1,0,0
+"California","Stanislaus",2023,"2023-2024",3,752900,3,0,3,1,0,0
+"California","Stanislaus",2024,"2024-2025",13,2114000,12,1,0,0,0,0
+"California","Sutter",2022,"2022-2023",0,0,0,0,3,2,2,0
+"California","Tehama",2022,"2022-2023",1,23700,0,1,0,0,0,0
+"California","Tulare",2024,"2024-2025",5,1009200,5,0,5,0,0,0
+"California","Unknown",2025,"2025-2026",0,0,0,0,2,0,0,0
+"California","Ventura",2022,"2022-2023",0,0,0,0,7,3,0,0
+"California","Ventura",2025,"2025-2026",0,0,0,0,6,2,0,0
+"California","Yolo",2022,"2022-2023",0,0,0,0,23,22,0,0
+"California","Yolo",2023,"2023-2024",0,0,0,0,63,62,2,0
+"California","Yolo",2024,"2024-2025",0,0,0,0,26,25,0,0
+"California","Yolo",2025,"2025-2026",0,0,0,0,28,21,1,0
+"California","Yuba",2022,"2022-2023",0,0,0,0,4,3,1,0
+"California","Yuba",2025,"2025-2026",0,0,0,0,1,1,1,0

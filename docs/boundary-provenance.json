@@ -1,0 +1,13 @@
+{
+  "derivation": "STATEFP == 06; 58 counties; no simplification or reprojection",
+  "script": "scripts/prepare_county_boundaries.R",
+  "source_files": {
+    "tl_2024_us_county.shp": "4bdd1476ffeb7e5a4bc6a2eb60d39e6ceae3d385b2d87793a634ffe1552aafe4",
+    "tl_2024_us_county.shx": "d41d07996080ceaa52c7a01045f9139d01a017aba59f3f8a7b7d8d000a8151c6",
+    "tl_2024_us_county.dbf": "f310846d5f8160fc63e2e4930af756b966f31a86e7b019a251ffc51789d28919",
+    "tl_2024_us_county.prj": "0b9041e921d9ebb43247d314608fe9e38a0b008ee793067fc1806199ea1fb9dd",
+    "tl_2024_us_county.cpg": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+  },
+  "output": "spatial_boundaries/ca_counties_2024.gpkg",
+  "output_sha256": "a521167fb5cca13bce00da61cf2063db8036a741abcae15c9f61dea3c2d59e10"
+}
