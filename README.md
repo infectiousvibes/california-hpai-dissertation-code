@@ -1,6 +1,6 @@
 # California HPAI, Rice Habitat, and Snow Goose Dissertation Code
 
-Dissertation research code by **Mariati Messinger** examining county-level
+Dissertation research code examining county-level
 associations between rice habitat, winter Snow Goose activity, and reported
 poultry highly pathogenic avian influenza (HPAI) outbreaks in California.
 
