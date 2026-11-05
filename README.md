@@ -131,8 +131,10 @@ analysis above defines the reported workflow.
 ## Related project and rights
 
 The complementary [wildfire and H5N1 ML prototype](https://github.com/infectiousvibes/wildfire-h5n1-california)
-explores county-grouped prediction and model interpretation using synthetic
-data. This dissertation repository contains the observational analysis.
+explores county-grouped prediction and model interpretation through a synthetic
+teaching workflow and a separate observational benchmark using APHIS, PRISM,
+Terra MODIS, USDA land-cover, and Census data. This dissertation repository
+contains the county-winter poultry-outbreak analysis.
 
 No open-source license has been selected for this code. Third-party datasets
 retain their own terms; see [LICENSE-NOTICE.md](LICENSE-NOTICE.md).
